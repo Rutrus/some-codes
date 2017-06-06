@@ -1,2 +1,3 @@
-# some-codes
-This is not a portfolio, it is a compilation with some codes
+# Algunos códigos
+
+Aquí recopilaré pequeños snippets y programas para que no queden en el olvido.
