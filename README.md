@@ -9,6 +9,6 @@ Here I will upload some codes that were used...
 
 **Notes**
 
-1. For algorithmic challenges from ProjectEuler.net there are a repo codenamed "PE".
+1. For algorithmic challenges from ProjectEuler.net there are some codes in a repo codenamed "PE".
 2. For other coding challenges maybe I'll use this repo.
 
